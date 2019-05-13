@@ -1,4 +1,4 @@
-# Mobile-Store
+# ![Mobile-Store](https://cdn1.iconfinder.com/data/icons/colored-hand-phone/96/android-mobile_phone-512.png)
 
 [Check out the deployed version here](https://mobile-e-commerce-app.netlify.com)
 
