@@ -4,7 +4,7 @@
 
 ## What this project is about
 
-This is an another attempt of building react e-commerce application.
+This is an another attempt of building react web application, which is built using some of the latest technologies mentioned below.
 
 ### Table of Contents:
 
@@ -28,9 +28,9 @@ This is an another attempt of building react e-commerce application.
 
 ### Goals for this project
 
-..* To practice for myself
-..* To deal with the context API and styled components
-..* To learn how to introduce the payment section with paypal
+* To practice for myself
+* To deal with the context API and styled components
+* To learn how to introduce the payment section with paypal
 
 ### My git workflow
 
