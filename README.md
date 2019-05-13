@@ -8,10 +8,10 @@ This is an another attempt of building react e-commerce application.
 
 ### Table of Contents:
 
-..* Technologies used
-..* Goals for this project
-..* Useful references
-..* create-react-app docs
+..+ Technologies used
+..+ Goals for this project
+..+ Useful references
+..+ create-react-app docs
 
 
 ### Technologies used
