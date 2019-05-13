@@ -8,15 +8,15 @@ This is an another attempt of building react e-commerce application.
 
 ### Table of Contents:
 
-* **Technologies used**
-* **Goals for this project**
-* **Useful references**
-* **create-react-app docs**
+* **[Technologies used](https://github.com/amuru0S/Mobile-Store#technologies-used)**
+* **[Goals for this project](https://github.com/amuru0S/Mobile-Store#goals-for-this-project)**
+* **[Useful references](https://github.com/amuru0S/Mobile-Store#useful-references)**
+* **[create-react-app docs](https://github.com/amuru0S/Mobile-Store#create-react-app-docs)**
 
 
 ### Technologies used
 
-Click links to view some samples in this project
+**Click links to view some samples in this project**
 
 * **[react](https://github.com/amuru0S/Mobile-Store/blob/master/src/components/ProductList.js)**
 * **[context api](https://github.com/amuru0S/Mobile-Store/blob/master/src/context.js)**
@@ -26,11 +26,19 @@ Click links to view some samples in this project
 * **[modal](https://github.com/amuru0S/Mobile-Store/blob/master/src/components/Modal.js)**
 * **[dealing with Paypal account for payment](https://github.com/amuru0S/Mobile-Store/blob/master/src/components/Cart/PayPalButton.js)**
 
-### Goals for this project:
+### Goals for this project
 
 ..* To practice for myself
 ..* To deal with the context API and styled components
 ..* To learn how to introduce the payment section with paypal
+
+### My git workflow
+
+In this project i try to use:
+
+* meaningful component names
+* time-to-time pushes
+* proper commit messages
 
 ### Useful references
 
