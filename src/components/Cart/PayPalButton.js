@@ -21,7 +21,7 @@ export default class MyApp extends React.Component {
         let currency = "EUR"; 
 
         const client = {
-            sandbox: process.env.AcWGTt9f4W8YPL9WeSvMcJMtD9ft61mGU3wEk89hcrKpp7tNXoIDOA1hEv1MMQNh4JdAGxlb3RJsuRt3,
+            sandbox: 'AcWGTt9f4W8YPL9WeSvMcJMtD9ft61mGU3wEk89hcrKpp7tNXoIDOA1hEv1MMQNh4JdAGxlb3RJsuRt3',
             production: "YOUR-PRODUCTION-APP-ID"
         };
         return (

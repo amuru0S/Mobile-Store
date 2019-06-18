@@ -7,10 +7,10 @@ import { ProductConsumer } from "../../context";
 import EmptyCart from "./EmptyCart";
 
 
-export default class Store extends Component {
+export default class Cart extends Component {
   render() {
     return (
-      <section>
+       <section>
         <ProductConsumer>
           {value => {
             const { cart } = value;
@@ -29,6 +29,7 @@ export default class Store extends Component {
           }}
         </ProductConsumer>
       </section>
-    );
+    ); 
+    
   }
 }
