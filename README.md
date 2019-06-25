@@ -1,6 +1,6 @@
 # :iphone: Mobile-Store :iphone:
 
-:calling: **[Check out the deployed version here](https://mobile-e-commerce-app.netlify.com)** :calling:
+:calling: **[Check out the deployed version here](https://mobileshopping-react-app.netlify.com)** :calling:
 
 ## What this project is about
 
